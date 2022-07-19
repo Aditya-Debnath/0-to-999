@@ -2011,7 +2011,7 @@ int main()
     }else if(N==1000){
         printf("One Thousand\n");
     }else{
-        printf("\nThe number is out of 1000.\n\nPlease read the first line!\n\n");
+        printf("\nThe number is out of 1000.\n");
     }
 }
 
